@@ -40,6 +40,6 @@ This script only uses Python standard libraries, so no additional dependencies a
 
 ## License
 
-This project is distributed under the MIT license. For more details, see the LICENSE file.
+This project is distributed under the GPL-3.0 license. For more details, see the LICENSE file.
 
 
