@@ -41,19 +41,6 @@ Questo script utilizza solo librerie standard di Python, quindi non sono necessa
 - Lo script ignora errori di accesso ai file (ad esempio, permessi insufficienti).
 - La dimensione dei file viene calcolata in base a una soglia predefinita di 1 GB. È possibile modificare questo valore modificando la variabile `size_limit` nello script.
 
-## Contribuire
-
-Se vuoi contribuire al progetto, segui questi passi:
-1. Fai un fork del repository.
-2. Crea un nuovo branch per le tue modifiche.
-3. Invia una pull request.
-
 ## Licenza
 
-Questo progetto è distribuito sotto la licenza MIT. Per maggiori dettagli, consulta il file LICENSE.
-
----
-
-### Contatti
-
-Per domande o suggerimenti, puoi aprire una Issue su [GitHub](https://github.com/Tranchillo/Analyze-HD/issues).
+Questo progetto è distribuito sotto la licenza GPL-3.0. Per maggiori dettagli, consulta il file LICENSE.
