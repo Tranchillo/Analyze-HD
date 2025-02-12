@@ -41,19 +41,6 @@ This script only uses Python standard libraries, so no additional dependencies a
 - The script ignores file access errors (e.g., insufficient permissions).
 - File size is checked against a predefined threshold of 1 GB. This value can be modified by editing the `size_limit` variable in the script.
 
-## Contribute
-
-If you want to contribute to the project, follow these steps:
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Submit a pull request.
-
 ## License
 
-This project is distributed under the MIT license. For more details, see the LICENSE file.
-
----
-
-### Contact
-
-For questions or suggestions, you can open an issue on [GitHub](https://github.com/Tranchillo/Analyze-HD/issues).
+This project is distributed under the GPL-3.0 license. For more details, see the LICENSE file.
